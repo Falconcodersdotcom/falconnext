@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4440ed50-4ff5-4b45-bd7d-e7a518bb31d3" name="falconcoders" url="https://falconcoders.com/">
+        <fileTransfer rootFolder="/home/falcon/falconnext" accessType="SFTP" host="engnab.com" port="22" sshConfigId="bf5dfee3-73b8-4ba9-acab-4d29c3e34cff" sshConfig="falcon@engnab.com:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
